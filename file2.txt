@@ -2,3 +2,5 @@
 git advance commands
 
 git reflog
+
+git commit amend
